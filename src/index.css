@@ -1,0 +1,5 @@
+:root { font-family: 'DM Sans', 'Segoe UI', sans-serif; color: #24313a; background: #f6f8f7; font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; --ink: #24313a; --muted: #718088; --line: #e5ebe8; --teal: #167c74; --teal-dark: #0f5d58; --coral: #e8826c; --paper: #ffffff; }
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; }
+button, input, textarea { font: inherit; }
+button { cursor: pointer; }
